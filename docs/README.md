@@ -3,7 +3,7 @@ SuperFarm (retail service)
 
 Members
 김상우, 김수진, 김영록, 서강일, 심인선, 안수윤, 하양희
-
+--------------------------------------------------------------------------------
 
 
 *Github repository  
@@ -12,6 +12,7 @@ Backend = https://github.com/mrsir89/SuperFarm
 Frontend = https://github.com/mrsir89/SuperFarmClient
 
 AdminPage = https://github.com/mrsir89/SuperFarmAdmin
+--------------------------------------------------------------------------------
 
 
 
