@@ -1,5 +1,5 @@
-Project
-SuperFarm
+Bitcamp Final Project
+SuperFarm (retail service)
 
 Members
 김상우, 김수진, 김영록, 서강일, 심인선, 안수윤, 하양희
@@ -8,8 +8,11 @@ Members
 
 *Github repository  
 Backend = https://github.com/mrsir89/SuperFarm
+
 Frontend = https://github.com/mrsir89/SuperFarmClient
+
 AdminPage = https://github.com/mrsir89/SuperFarmAdmin
+
 
 
 *Template(from steve) : medtronic_v3.8.1 ,  Admin Theme
